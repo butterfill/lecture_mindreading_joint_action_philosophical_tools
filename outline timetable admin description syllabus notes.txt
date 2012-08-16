@@ -11,14 +11,14 @@ How is mindreading involved in joint action?  And in what ways (if any) could mi
 Detailed syllabus: [by September 3]
 
 (a) a provisional schedule of classes with topics
-1. sept 12? Zero week, general intro about the course : present
-2. sept 19? : Beliefs: Tracking, measuring and representing
-3. sept 26? : [no class]
-4. oct 3?   : What are modules?  (Core knowledge, ...)
-5. oct 10?  : What is an action?  What is an intention? 
-			+ discussion: ***
-6. oct 14?  : [no class]
-7. oct 24?  : Kinds of mindreading
+1. & sept 12  & Introduction 
+\\ 2. & sept 19  & What are mental states?
+\\ &   sept 26 & [no class]
+\\ 3. & oct 3 & Tracking, measuring and representing beliefs
+\\ 4. & oct 10  & Radical Interpretation
+\\  		& 		& discussion: \fullcite{Sugden:2000mw}
+\\ & oct 14 & [no class]
+\\ 5. & oct 24 & Kinds of mindreading
 			+ discussion: ***
 8. oct 31?  : Joint Action with Shared Intention
 			+ discussion: ***
@@ -33,11 +33,15 @@ Detailed syllabus: [by September 3]
 (b) the literature to be processed 
 
 ***readings
+Jeffrey chapters ...
+
 
 
 (c) the method and/or criteria of evaluation
 
-Students should submit a short term paper on a topic chosen from the list of topics below or agreed otherwise in advance. 
+Students should submit (1) a short midterm paper and (2) a short term paper.  The topic of each paper should ideally be agreed in advance; alternatively your papers may answer a question chosen from the list of questions below. 
+
+***topic list
 
 
 (d) a predefined deadline of submitting term papers if it differs from the departmental deadline specified below.
