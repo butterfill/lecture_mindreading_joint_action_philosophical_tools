@@ -1,0 +1,162 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt]{extarticle}
+% extarticle is like article but can handle 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, and 20pt text
+
+\def \ititle {Joint Action \& the Emergence of Mindreading}
+\def \isubtitle {Lecture 2: Minimal Theory of Mind}
+\def \iauthor {Stephen A. Butterfill and Ian Apperly}
+\def \iemail{s.butterfill@warwick.ac.uk}
+\date{}
+
+\input{$HOME/Documents/submissions/preamble_steve_handout}
+
+
+%itemize bullet should be dash
+\renewcommand{\labelitemi}{$-$}
+
+\begin{document}
+
+\begin{multicols}{3}
+
+\setlength\footnotesep{1em}
+
+%\bibpunct{}{}{,}{s}{}{,}  %use superscript TICS style bib
+
+\bibliographystyle{newapa} %apalike
+
+%\maketitle
+%\tableofcontents
+
+
+
+
+
+
+\begin{center}
+{\Large
+Mindreading \& Joint Action: Philosophical Tools}
+
+Lecture 6: Goal Ascription
+
+
+ButterfillS@ceu.hu
+\end{center}
+
+
+\section{The Question}
+\newcommand{\theQuestion}{How could pure goal ascription work? }
+\theQuestion
+
+\newcommand{\dfGoalAscription}{\emph{Goal ascription} is the process of identifying outcomes to which purposive actions are directed as outcomes to which those actions are directed.}
+
+\dfGoalAscription{}
+
+\emph{Pure} goal ascription is goal ascription which occurs independently of any knowledge of mental states.
+
+
+\section{Obstacle}
+Goal ascription involves representing the directedness of an action to an outcome
+
+The relation between actions and outcomes to which the are directed is standardly explained in terms of intention (see Lecture 5).
+
+If directedness could be explained only in terms of intentions or other representations, then pure goal ascription would be impossible---all goal ascription would involve representing representations.
+
+Solution: characterise a relation between actions and outcomes to which the are directed by appeal to teleological functions ...
+
+
+\section{Teleological Function}
+
+(How to characterise the relation between actions and outcomes to which the are directed without representations.)
+
+Example: 
+Atta ants cut leaves in order to fertilize their fungus crops (not to thatch the entrances to their homes) \citep{Schultz:1999ps}
+
+Definition:`S does B for the sake of G iff: (i) B tends to bring about G; (ii) B occurs because (i.e. is brought about by the fact that) it tends to bring about G.' \citep[p.\ 39]{Wright:1976ls}
+
+Application: 
+The Atta ant cuts leaves in order to fertilize iff: (i) cutting leaves tends to bring about fertilizing; (ii) cutting leaves occurs because it tends to bring about fertilizing.
+
+
+\section{Criteria for a solution}
+\theQuestion 
+We  seek a relation, $R$, between and action, $a$, and an outcome, $G$, 
+such that:
+\begin{enumerate}
+\item reliably $R(a,G)$ when and only when $a$ is directed to $G$; 
+\item $R(a,G)$ is readily detectable; and 
+\item $R(a,G)$ is readily detectable independently of any knowledge of mental states.
+\end{enumerate}
+
+
+\section{Can we define $R$ using the Principle of Rationality or Efficiency?}
+Principle of Rationality: 
+`an action can be explained by a goal state if, and only if, it is seen as the most justifiable action towards that goal state that is available within the constraints of reality' \citep[p.\ 255]{Csibra:1998cx} cf.\ \citep{Csibra:2003jv}.
+
+I.e.: $R(a,G)$ exactly if $a$ is `the most justifiable action towards' $G$ `that is available within the constraints of reality'.
+
+Principle of Efficiency:
+`goal attribution requires that agents expend the least possible amount of energy within their motor constraints to achieve a certain end' \citep[p.\ 1061]{Southgate:2008el}.
+
+I.e.: $R(a,G)$ exactly if $a$ is a means of achieving $G$ and any alternative available means would involve expending more energy.
+
+\section{Problems for the Principles}
+A. side effects \\
+(Many actions have unintended side effects and are rational and efficient ways to produce these side effects.)
+
+B. trade-offs \\
+(There is often a balance between how much energy an action would require and how reliably it would achieve a goal.)
+
+C. matching observer and agent \\
+(If there are too many discrepancies between
+		how well the agent can optimise her actions
+	and
+		how well the observer can detect optimality,
+then these principles will fail to be sufficiently reliable.)
+
+
+\section{A puzzle}
+
+Motor planning occurs in action observation. \\
+Evidence includes findings that observing actions sometimes facilitates performing compatible actions and interferes with performing incompatible actions, as several studies have shown \citep{brass:2000_compatibility, craighero:2002_hand, kilner:2003_interference, costantini:2012_does}. 
+
+Motor planning can facilitate goal ascription. \\
+Evidence includes expertise effects \citep{casile:2006_nonvisual},
+deficits induced by temporary lesions specifically to the motor cortex \citep{urgesi:2007_representation, moro:2008_neural},
+and matches in impairment between performing and identifying actions in patients with
+	hemiplegia \citet{serino:2009_lesions_}
+	and different apraxias \citep{pazzaglia:2008_sound_}.
+
+\newcommand{\thePuzzle}{How could motor planning in action observation facilitate goal ascription?  }
+Puzzle: \thePuzzle 
+
+
+
+\section{Planning as goal ascription}
+The representation of an outcome leads to a planning-like process which generates predictions about how the action will unfold.
+The outcome representation is weakened to the extent that the predictions are not met.  
+
+\theQuestion \\ 
+The relation $R(a,G)$ should be defined relative to a planning mechanism.
+For planning mechanism $M$, $R{_M}(a,G)$ holds just if were $M$  tasked with producing $G$ it would plan action $a$.
+
+
+\thePuzzle \\
+By enabling the observer to compute whether $R{_M}(a,G)$ where $M$ is the planning mechanism involved in motor control.
+
+
+\subsection{Solving the problems}
+
+B. trade-offs \\
+we get the right principle by deferring to the kinds of planning mechanism responsible for producing the action.
+
+C. matching observer and agent \\
+we ensure a match insofar as observer an agent have similar planning mechanisms; this means, of course, that they must have similar expertise
+
+\footnotesize 
+\bibliography{$HOME/endnote/phd_biblio}
+
+\end{multicols}
+
+\end{document}
