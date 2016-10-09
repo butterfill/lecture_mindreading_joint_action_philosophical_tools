@@ -1,0 +1,15 @@
+Grades:
+
+-Dilek Caglan: B
+-Jellinek Sara: B
+-Major Agota: A-
+-Tatone Denis: A
+-Voinov Pavel: A
+
+Audit to:
+-Agoston Gabriella 
+-Adam Boncz 
+-Brick Julie 
+-Martin Freundlieb 
+-Kampis Dora 
+-Popa Elena 
