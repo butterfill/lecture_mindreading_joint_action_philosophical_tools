@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=http://localhost:8080/schema-project.json
+
+id: 9xnWfEPExZkq5JRPwpALl
+title: Mindreading and Joint Action - Philosophical Tools (ceu Budapest 2012 Autumn Fall)
+url: 
+git-remote:
+  - git@bitbucket.org:butterfill/lecture_mindreading_joint_action_philosophical_tools.git
+  - git@github.com:butterfill/lecture_mindreading_joint_action_philosophical_tools.git
+type: lectures
+location: 
+authors: 
+  - Stephen A. Butterfill
+  - Jason Low
+  - John Michael
+  - Corrado Sinigaglia
+  - Bart Gheurts
+status: 
+
